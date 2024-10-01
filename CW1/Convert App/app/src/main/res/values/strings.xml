@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Length Unit Converter</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="please_input_a_number">Please input a number</string>
+
+    <string-array name="Length">
+        <item>Metre</item>
+        <item>Millimetre</item>
+        <item>Mile</item>
+        <item>Foot</item>
+    </string-array>
 </resources>
